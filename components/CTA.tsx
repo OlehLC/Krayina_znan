@@ -201,6 +201,7 @@ px-5
 py-3
 font-bold
 shadow-lg
+hidden sm:block
 "
 
                         >

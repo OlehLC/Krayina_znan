@@ -103,7 +103,7 @@ text-lg
 "
 
                     >
-<span className="hidden sm:block">
+<span >
 
 Країна знань
 
