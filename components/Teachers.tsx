@@ -32,13 +32,13 @@ const teachers = [
     },
 
     {
-        name:"Мельник Софія",
+        name:"Якименко Давід",
         subject:"Англійська",
         image:"/images/gallery/5.webp"
     },
 
     {
-        name:"Якименко Давід",
+        name:"Мельник Софія",
         subject:"Англійська",
         image:"/images/gallery/6.webp"
     }
